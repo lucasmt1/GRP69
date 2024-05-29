@@ -1,0 +1,7 @@
+{
+  "name": "pokemonAPP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
